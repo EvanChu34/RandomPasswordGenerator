@@ -1,1 +1,3 @@
 # RandomPasswordGenerator
+
+Attached to this repository is a file for a randome password generator. When you load in the page, it ask you to go through a few criterias before you can create your password. These criterias ask if you first to pick a character amount between 8-128 characters. Next it will ask you if you want to have lowercase letters in your password. It will continue to ask if you want uppercase letter, numbers, and symbols in your password. Once the criterias are completed, the user can use the "Generate" button to create a random password. To start the process over, the user must refresh the webpage to start from the begining criteria. 
